@@ -9,4 +9,6 @@ Just paste the input html table from edenred's website and click on **process**.
 
 Run `streamlit run main.py` from the terminal.
 
+![Example UI](https://i.imgur.com/ti8t3dh.jpg)
+
 Author: [Anuraag Jain](https://adja.in)

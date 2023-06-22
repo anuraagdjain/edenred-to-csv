@@ -1,8 +1,8 @@
 import streamlit as st
-from edenred_to_zoho import html_file_to_csv
+from edenred_to_csv import html_file_to_csv
 import pandas as pd
 
-st.header("Convert Edenred Expense to CSV for Zoho")
+st.header("Convert Edenred Expense to CSV for Expense Manager")
 
 input_html = st.text_area(label="Edenred expense html table")
 
