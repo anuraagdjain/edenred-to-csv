@@ -7,4 +7,6 @@ Using streamlit to render the view.
 
 Just paste the input html table from edenred's website and click on **process**. Then you'll see a download button for the csv.
 
+Run `streamlit run main.py` from the terminal.
+
 Author: [Anuraag Jain](https://adja.in)
