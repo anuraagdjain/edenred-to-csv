@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+
 def html_file_to_csv(html_content):
     # Create a BeautifulSoup object to parse the HTML
     soup = BeautifulSoup(html_content, "html.parser")
